@@ -1,0 +1,333 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case in law and equity of Tristram Wodward, Esq. for the mannors of Tuddington, Harlington, and Tyngrith, and other lands in the county of Bedford / reported to the Commissioners of Obstructions by Mr. St. Nichlas the councell for the Common-wealth.</title>
+            <author>St. Nichlas, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59975</idno>
+            <idno type="STC">Wing S346</idno>
+            <idno type="STC">ESTC R37140</idno>
+            <idno type="EEBO-CITATION">16219971</idno>
+            <idno type="OCLC">ocm 16219971</idno>
+            <idno type="VID">105134</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59975)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105134)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1600:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case in law and equity of Tristram Wodward, Esq. for the mannors of Tuddington, Harlington, and Tyngrith, and other lands in the county of Bedford / reported to the Commissioners of Obstructions by Mr. St. Nichlas the councell for the Common-wealth.</title>
+                  <author>St. Nichlas, Thomas.</author>
+               </titleStmt>
+               <extent>25 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed on p. 17: Thomas St. Nichlas.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard Law School Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Equity --  England.</term>
+               <term>Estates (Law) --  England.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="report">
+            <pb facs="tcp:105134:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:105134:1" rendition="simple:additions"/>
+            <head>THE CASE IN LAW AND EQUITY OF <hi>TRISTRAM WODWARD</hi> 
+               <abbr>Esq</abbr> FOR THE Mannors of <hi>Tuddington, Harlington,</hi> And <hi>Tyngrith,</hi> and other Lands in the County of <hi>Bedford,</hi> Reported to the Commiſſioners of Obſtructions, by M<hi rend="sup">r</hi> S<hi rend="sup">t</hi> 
+               <hi>Nichlas</hi> the Councell for the Common-wealth.</head>
+            <head type="sub">
+               <hi>To the Honourable the Commiſsioners of Parliament, for removing Obſtructions in the ſale of ſeverall Lands and Eſtates forfeited to the Commonwealth for Treaſon.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>N obedience to your ſeverall Orders of the 11 of <hi>September,</hi> 30 of <hi>October,</hi> and 25 of <hi>February</hi> 1651. upon the Petition of <hi>Triſtram Wodward</hi> Eſquire, who layes claim out of the Eſtate of <hi>Thomas</hi> Earl of <hi>Cleveland,</hi> to the Mannors of <hi>Tud<g ref="char:EOLhyphen"/>dington, Harlington</hi> and <hi>Tyngrith</hi> in the County of <hi>Bedford:</hi>
+            </p>
+            <p>I have examined and finde,</p>
+            <pb n="2" facs="tcp:105134:2" rendition="simple:additions"/>
+            <p> That by the copy of an Office taken 35 of <hi>Eliz.</hi> after the death of <hi>Henry</hi> late Lord <hi>Cheyne,</hi> it appeareth that the Mannors of <hi>Tuddington, Harlington</hi> and <hi>Tyn<g ref="char:EOLhyphen"/>grith</hi> in the County of <hi>Bedford,</hi> were the Inheritance of the ſaid Lord <hi>Cheyne,</hi> by diſcent from <hi>Anne Brough<g ref="char:EOLhyphen"/>ton</hi> his Mother: And it appeareth that in the 6 year of Queen <hi>Elizabeth,</hi> the Lord <hi>Cheyne</hi> did ſuffer a Com<g ref="char:EOLhyphen"/>mon Recovery of the ſaid Mannors, to the uſe of the Lord <hi>Cheyne</hi> and <hi>Jane</hi> his Wiſe for their lives, the Remainder to the Heirs of the body of the Lord <hi>Chey<g ref="char:EOLhyphen"/>ne,</hi> Remainder in Fee to the ſaid <hi>Jane.</hi>
+            </p>
+            <p>And in Trinity Tearm 13 of <hi>Elizabeth,</hi> the ſaid <hi>Henry Cheyne,</hi> then Sir <hi>Henry Cheyne</hi> Knight, and Dame <hi>Jane</hi> his Wife, did ſuffer a new Recovery of the ſaid Mannors and Land, and by their Tripartite Deed da<g ref="char:EOLhyphen"/>ted the 2 of <hi>April</hi> the 13 of <hi>Elizabeth,</hi> limit the uſe to Sir <hi>Henry Cheyne</hi> and Dame <hi>Jane Cheyne</hi> and the heirs males of Sir <hi>Henry</hi> on the body of the Lady <hi>Jane,</hi> Re<g ref="char:EOLhyphen"/>mainder to the heirs males of the body of Sir <hi>Henry Cheyne,</hi> Remainder to the heirs of the body of the ſaid Lord <hi>Cheyne</hi> on the body of the ſaid Lady <hi>Jane,</hi> Re<g ref="char:EOLhyphen"/>mainder to the heirs of the body of the ſaid Lord <hi>Cheyne,</hi> and for default of ſuch Iſſue, to the uſe of ſuch Perſon and Perſons, and for ſuch Eſtate and Eſtates as the ſaid Dame <hi>Jane</hi> ſurviving the ſaid Sir <hi>Henry Chey<g ref="char:EOLhyphen"/>ne</hi> at any time during her life ſhall diſpoſe or appoint, by any writing ſubſcribed with her hand and ſealed with her Seal: and for default of ſuch Iſſue and diſpo<g ref="char:EOLhyphen"/>ſition and appointment, and after the expiration of ſuch diſpoſition or appointment, then to the uſe of the ſaid Sir <hi>Henry Cheyne</hi> his heirs and aſſignes for ever abſolutely without any Condition.</p>
+            <p>And I finde by the Anſwer upon Oath of <hi>Thomas</hi>
+               <pb n="3" facs="tcp:105134:2"/> Earl of <hi>Cleveland,</hi> and Sir <hi>John Crofts</hi> 12 <hi>Jacob.</hi> to an Information in the Court of Wards, at the relation of <hi>Thomas Cheyne</hi> 
+               <abbr>Esq</abbr> the next heir of <hi>Henry</hi> Lord <hi>Chey<g ref="char:EOLhyphen"/>ne</hi> by three Inquiſitions, that the ſaid Lord <hi>Cheyne</hi> did cauſe his wife to joyn with him in a new Recovery 13 <hi>Eliz.</hi> to the uſe of the Lord <hi>Cheyne</hi> and <hi>Jane</hi> his wife, and to the heirs males of the body of the Lord <hi>Cheyne</hi> upon the body of the ſaid <hi>Jane</hi> lawfully com<g ref="char:EOLhyphen"/>ing, the Remainder to the heirs males of the body of the Lord <hi>Cheyne,</hi> the Remainder to the heirs of the body of the Lord <hi>Cheyne</hi> upon the body of the ſaid <hi>Jane,</hi> the Remainder to the heirs of the body of the Lord <hi>Cheyne,</hi> the Remainder to ſuch perſon and per<g ref="char:EOLhyphen"/>ſons, and for ſuch eſtate and eſtates as the ſaid <hi>Jane</hi> ſurviving the Lord <hi>Cheyne,</hi> at any time during her life ſhall diſpoſe or appoint, by any writing ſubſcribed with her hand and ſealed with her Seal, as by a Co<g ref="char:EOLhyphen"/>py of the ſaid Anſwer depoſed by <hi>George Becke</hi> Gent. to be a true Copy of the Originall appeareth.</p>
+            <p>And it is depoſed in Chancery, that upon a Refe<g ref="char:EOLhyphen"/>rence from the Parliament to Juſtice <hi>Reeve</hi> and Ju<g ref="char:EOLhyphen"/>ſtice <hi>Foſter,</hi> the Earl by his Councell and Sollicitor, did produce the other part of the ſaid Deed of 13 <hi>Eliz.</hi> which limited the Fee-ſimple of all the Mannors, for want of Iſſue of the Lord <hi>Cheyne</hi> and ſuch diſpoſition of his wife, and after the expiration of ſuch diſpoſi<g ref="char:EOLhyphen"/>tion to remain to the Lord <hi>Cheyne</hi> and his heirs and aſſignes for ever abſolutely and without any Condi<g ref="char:EOLhyphen"/>tion, as by a Copy of the Depoſitions of <hi>John Cook</hi> and <hi>Richard Wallopp</hi> Eſquires, depoſed by <hi>George Becke</hi> Gent. to be a true Copy of the Originall appeareth.</p>
+            <p>And it appeareth by the Copy of a part of the Will of the ſaid <hi>Jane</hi> Lady <hi>Cheyne,</hi> examined by the Re<g ref="char:EOLhyphen"/>cord,
+<pb n="4" facs="tcp:105134:3"/> and depoſed by the ſaid <hi>George Becke,</hi> to be a true Copy of ſo much of the ſaid Will: That the 10 <hi>Jacob.</hi> ſhe made a Leaſe for 30 years of the aforeſaid Man<g ref="char:EOLhyphen"/>nors, to Sir <hi>John Crofts</hi> and Dame <hi>Mary</hi> his wife, to begin from the death of the ſaid Lady <hi>Jane:</hi> And it appeareth by a <hi>Memorandum</hi> in the foot of the ſame Will upon Record, ſhe died the 16 of <hi>April</hi> 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Jacob.</hi> whereby the ſaid Leaſe ended the 16 of <hi>April</hi> 1644.</p>
+            <p>And I finde that by Indenture dated the 12 <hi>Martij</hi> 11 <hi>Jacob.</hi> made between <hi>Thomas Cheyne</hi> Cozen and next heir to the ſaid <hi>Henry</hi> Lord <hi>Cheyne</hi> and <hi>Triſtram Wodward</hi> the Petitioner and <hi>Ellen</hi> his wife, one of the daughters of Sir <hi>Edmund Pelham</hi> of the one part, and Sir <hi>Thomas Pelham</hi> Knight and Baronet, Sir <hi>John Hungerford</hi> Knight, Sir <hi>John Wodward</hi> Knight, <hi>An<g ref="char:EOLhyphen"/>thony Dyott, Herbert Pelham</hi> Son and heir of the ſaid Sir <hi>Edmund Pelham, William Cobbs</hi> 
+               <abbr>Esq</abbr> and <hi>John Coddrington</hi> Gent. of the other part, Reciting; That whereas the ſaid <hi>Thomas Cheyne</hi> by Deed of Bargain and Sale inrolled in Chancery, dated 17 <hi>Novemb.</hi> 6 <hi>Jacob.</hi> for the conſideration of divers Lands, Tene<g ref="char:EOLhyphen"/>ments and Leaſes for years, amounting to the value of 10000 pound, which were purchaſed with the mo<g ref="char:EOLhyphen"/>ney and goods of the Grandmother and Grandfather of the ſaid <hi>Triſtram Wodward,</hi> and meant and intended for the Portions and advancement of <hi>Joan</hi> the Mo<g ref="char:EOLhyphen"/>ther of the ſaid <hi>Triſtram,</hi> and conveyed away from her unto <hi>Elizabeth Cheyne</hi> the wife of the ſaid <hi>Thomas Cheyne</hi> and ſiſter of the ſaid <hi>Joan,</hi> and the money thereof ſpent in the great Suits of the ſaid <hi>Thomas Cheyne,</hi> for the obteyning of the Lands wrongfully ſold away from the ſaid <hi>Thomas Cheyne</hi> by the ſaid <hi>Henry</hi> Lord <hi>Cheyne,</hi> which Lands of the ſaid <hi>Eliza<g ref="char:EOLhyphen"/>beth</hi>
+               <pb n="5" facs="tcp:105134:3"/> 
+               <hi>Cheyne,</hi> or ſo much in value was meant by the ſaid <hi>Thomas Cheyne</hi> and <hi>Elizabeth</hi> his wife, after the death of the ſaid <hi>Elizabeth</hi> without Iſſue, or after the death of the ſaid <hi>Henry</hi> Lord <hi>Cheyne</hi> without Iſſue, to remain unto <hi>Joan</hi> the ſaid ſiſter of the ſaid <hi>Eliza<g ref="char:EOLhyphen"/>beth Cheyne,</hi> and mother of the ſaid <hi>Triſtram.</hi> And for divers other good Conſiderations in the ſaid Deed expreſt, hath given, granted, bargained and ſold unto the ſaid <hi>Triſtram Wodward</hi> and his heirs, the Mannors of <hi>Tuddington, Chalgrave, Harlington</hi> and <hi>Tyngrith,</hi> and the Reverſion and Reverſions, Remainder and Re<g ref="char:EOLhyphen"/>mainders thereof, and of all other the Lands, Tene<g ref="char:EOLhyphen"/>ments and Hereditaments of the ſaid <hi>Thomas Cheyne,</hi> whereof the ſaid <hi>Henry</hi> Lord <hi>Cheyne</hi> died ſeized in the ſaid County of <hi>Bedford,</hi> after the death of the Lady <hi>Cheyne</hi> wife of the Lord <hi>Henry Cheyne,</hi> which lawfully deſcended and of right ought to come unto <hi>Thomas Cheyne,</hi> as Cozen and next heir to the ſaid <hi>Henry</hi> Lord <hi>Cheyne,</hi> and whereof the ſaid <hi>Thomas Cheyne</hi> by Inqui<g ref="char:EOLhyphen"/>ſition after the death of the ſaid Lord <hi>Cheyne,</hi> is found to be Cozen and next heir to the ſaid Lord <hi>Cheyne,</hi> as by a Copy of the ſaid Inquiſition depoſed by the ſaid <hi>George Becke</hi> to be a true Copie of the Originall to me likewiſe appeareth.</p>
+            <p>Now the ſaid <hi>Thomas Cheyne</hi> and <hi>Triſtram Wodward,</hi> as well in conſideration of divers ſummes of Money paid by the ſaid <hi>Herbert Pelham</hi> to the ſaid <hi>Triſtram Wodward,</hi> in marriage with the ſaid <hi>Ellen</hi> his wife, ſiſter of the ſaid <hi>Herbert Pelham,</hi> and in conſideration of the ſaid marriage had between the ſaid <hi>Tristram</hi> and the ſaid <hi>Ellen,</hi> the daughter of the ſaid Sir <hi>Edmund Pel<g ref="char:EOLhyphen"/>ham</hi> and <hi>Ellen</hi> Lady <hi>Pelham</hi> her mother, Cozen of the whole blood to the ſaid <hi>Henry</hi> Lord <hi>Cheyne</hi> and to the
+<pb n="6" facs="tcp:105134:4"/> ſaid <hi>Thomas Cheyne,</hi> ſhe being deſcended from the <hi>Cheynes</hi> of <hi>Crall</hi> in <hi>Suſſex,</hi> who are of the whole blood and family of the ſaid Lord <hi>Cheyne:</hi> And for that the ſaid <hi>Triſtram</hi> is of blood of the ſaid <hi>Elizabeth Cheyne,</hi> and the ſaid <hi>Ellen</hi> and her Iſſue of the blood of the ſaid <hi>Cheynes</hi> of <hi>Crall,</hi> and ſhall keep the ſame Name; and for advancement of the heirs of the bodies of the ſaid <hi>Triſtram</hi> and <hi>Ellen</hi> his wife, do Covenant to ſtand ſeized of the ſaid Mannors of <hi>Tuddington, Chal<g ref="char:EOLhyphen"/>grave, Harlington</hi> and <hi>Tyngrith,</hi> and of the Reverſions thereof, and of all other the Lands, Tenements and Hereditaments of the ſaid <hi>Thomas Cheyne</hi> and <hi>Triſtram Wodward</hi> or either of them, in <hi>Tuddington, Chalgrave, Horkley, Tyngrith, Harlington, Apſley, Ridgemont, Weſton<g ref="char:EOLhyphen"/>ning, Sundon, Pullox hill, Haughton, Flitwicke,</hi> and <hi>Strackley</hi> in the ſaid County of <hi>Bedford,</hi> to the uſe of the ſaid <hi>Triſtram Wodward</hi> and <hi>Ellen</hi> his wife, and the heirs of their two bodies, the Remainder to the right heirs of the ſaid <hi>Tristram</hi> for ever, which Indenture was enrolled in Chancery 23 <hi>Febr.</hi> 18 <hi>Jacob.</hi> as by the Copy of the ſaid Indenture depoſed by the ſaid <hi>George Becke</hi> to be a true Copy of the Record ap<g ref="char:EOLhyphen"/>peareth.</p>
+            <p>And I finde that the ſaid <hi>Thomas Cheyne</hi> 4 <hi>Novemb.</hi> 12 <hi>Jacob.</hi> did acknowledge a Recognizance in nature of a Statute Staple of 40000 pound, before the then Chief Juſtice Sir <hi>Edward Cook,</hi> to <hi>Triſtram Wodward</hi> and <hi>Cheyne Wodward</hi> his ſonne, defeazanced for per<g ref="char:EOLhyphen"/>formance of the Covenants of the ſaid Deed of 6 and 11 <hi>Jacob.</hi> as by the Counterpart of the ſaid defea<g ref="char:EOLhyphen"/>zance not yet proved appeareth.</p>
+            <p>And that the Lord <hi>Cheyne</hi> and <hi>Jane</hi> his wife, did the 20 <hi>Eliz.</hi> by <hi>Fine Sur conceſsit,</hi> make a Leaſe for
+<pb n="7" facs="tcp:105134:4"/> 30 years of part of every Mannor to <hi>John Pare,</hi> reſer<g ref="char:EOLhyphen"/>ving the old Rent to be paid to the Lord <hi>Cheyne</hi> and <hi>Jane</hi> his wife, and to the heirs of the Lord <hi>Cheyne.</hi>
+            </p>
+            <p>And the Lord <hi>Cheyne</hi> without his wife, 24 <hi>Eliz.</hi> did ſuffer a Common Recovery of another part of every Mannor, and made the like Leaſe to one <hi>Francis Bevill.</hi>
+            </p>
+            <p>And the Lord <hi>Cheyne</hi> and <hi>Jane</hi> his wife, 27 <hi>Eliz.</hi> did by <hi>Fine Sur conceſsit,</hi> make the like Leaſe for 30 years for another part of every Mannor, to <hi>Ralph A<g ref="char:EOLhyphen"/>ſtrey</hi> 
+               <abbr>Esq</abbr>, and reſerved the old Rents to him and <hi>Jane</hi> his wife, and the heirs of the Lord <hi>Cheyne.</hi>
+            </p>
+            <p>And the Lord <hi>Cheyne</hi> and <hi>Jane</hi> his wife, 28 <hi>Eliz.</hi> did joyn in Fines of the Coppy hold Lands of every Mannor, to make them Freehold, whereby the Peti<g ref="char:EOLhyphen"/>tioner Claimes to part of the Lands and profits ſince the death of the Lady <hi>Cheyne,</hi> and to the Reverſion and profits of the reſt of the Mannors ſince the 16 of <hi>April</hi> 1644. when the Leaſe to Sir <hi>John Crofts,</hi> &amp;c. expired.</p>
+            <p>And I finde that the Earl of <hi>Cleveland</hi> and Sir <hi>John Crofts,</hi> do in their Anſwers in the Court of Wards, plead two Titles againſt the ſaid <hi>Thomas Cheyne;</hi> The one that 6 <hi>Jacob.</hi> he had conveyed the Reverſion to the Petitioner and his heirs.</p>
+            <p>And that the 29 of <hi>Eliz.</hi> the ſaid <hi>Jane</hi> Lady <hi>Cheyne</hi> did by her writing grant the Reverſion of the ſaid Mannors after her death, to one <hi>Edmund Pooley</hi> and <hi>Charles Glenham</hi> and their heirs, and that ſhortly after they re-granted the Fee to <hi>Jane</hi> Lady <hi>Cheyne</hi> and her heirs, which is the now Earl of <hi>Cleveland,</hi> as by a Co<g ref="char:EOLhyphen"/>py of the ſaid Anſwer depoſed by the ſaid <hi>George Becke,</hi> to be a true Copy of the Record, appeareth.</p>
+            <pb n="8" facs="tcp:105134:5"/>
+            <p> And it is depoſed in Chancery, That the ſaid Earl by his Councel and Sollicitors, did produce the ſaid Deed of 29 <hi>Eliz.</hi> to Juſtice <hi>Reeve</hi> and Juſtice <hi>Foster,</hi> upon the Reference to them, who being informed that the ſaid Deed was not found in the Lord <hi>Cheynes</hi> Office 35 <hi>Eliz.</hi> nor in the Lady <hi>Cheynes</hi> Office 12 <hi>Jacob.</hi> nor pleaded by the Lady <hi>Cheyne</hi> in the Ex<g ref="char:EOLhyphen"/>chequer to the reſpit of Homage 36 of <hi>Eliz.</hi> nor ſpo<g ref="char:EOLhyphen"/>ken of by the Lady <hi>Cheyne</hi> in her laſt Will, as it like<g ref="char:EOLhyphen"/>wiſe appeareth to me by Copies of the ſaid ſeverall In<g ref="char:EOLhyphen"/>quiſitions, Pleadings and Will, depoſed before this Honourable Committee to be true Copies: and de<g ref="char:EOLhyphen"/>manding the reaſon why it was not found in the ſaid Offices, M. Serjeant <hi>Taylor</hi> the Earls then Councel did confeſs the ſaid Deeds of 29 <hi>Eliz.</hi> were proffered to the Jury 12 of <hi>Jacob.</hi> at the finding of the Lady <hi>Cheynes</hi> Office, but then the Jury would not finde them; and that Juſtice <hi>Reeves</hi> ſaid, thoſe Deeds were no evidence, which Juſtice <hi>Foſter</hi> did not contradict. And it is likewiſe depoſed in Chancery, That the ſaid Earl borrowed Money upon his Title by the Deed of 6 <hi>Eliz.</hi> and the Inquiſition of the 35 of <hi>Eliz.</hi> and concealed the Deed of 13 <hi>Eliz.</hi> and the Deed to <hi>Pooley</hi> and <hi>Glenham,</hi> the Copies of which Depoſitions are likewiſe depoſed to be true Copies of the Origi<g ref="char:EOLhyphen"/>nall by the ſaid <hi>George Becke.</hi>
+            </p>
+            <p>And I finde that by Inquiſition taken at <hi>Dunstable</hi> in the County of <hi>Bedford</hi> 17 <hi>Martij</hi> 12 <hi>Jacob.</hi> upon a <hi>Diem clauſit extremum,</hi> after the death of <hi>Jane</hi> Lady <hi>Cheyne,</hi> it was found that the ſaid <hi>Jane</hi> Lady <hi>Cheyne</hi> in her life time, and long before her death, was ſeized in her Demeaſne as a Fee of the Mannors of <hi>Tudding<g ref="char:EOLhyphen"/>ton</hi> with the appurtenances in the County of <hi>Bedford,</hi>
+               <pb n="9" facs="tcp:105134:5"/> and of certain Glebe Lands in the ſaid Pariſh called the Portionaries, and of the Mannors of <hi>Chalgrave, Harlington,</hi> the Rectory of <hi>Harlington,</hi> the Mannor of <hi>Tyngrith,</hi> and divers Meſſuages, Lands, Tenements, <hi>&amp;c.</hi> in <hi>Tuddington, Chalgrave, Harlington, Tyngrith, Horkley, Apſley, Rigemount, Westonning, Sundon, Pullox hill, Hauton, Flitwicke</hi> and <hi>Strackley</hi> in the ſaid County of <hi>Bedford,</hi> and that ſhe was ſeaſed in her Demeſne as a Fee of a certain Grange called <hi>Pullox hill Grange,</hi> alias <hi>Harlington Grange</hi> in the County of <hi>Bedford,</hi> and of a Cloſe of Paſture called <hi>Muncks Cloſe,</hi> and a parcell of Meadow called <hi>Cranford Meade,</hi> and a water Mill to the ſaid Grange belonging, ſome<g ref="char:EOLhyphen"/>time belonging to the late diſſolved Monaſtery of <hi>Wooburn,</hi> which laſt mentioned parcels were purcha<g ref="char:EOLhyphen"/>ſed by the ſaid Lady <hi>Jane,</hi> and <hi>Henry</hi> Lord <hi>Cheyne</hi> her late husband of one <hi>Roger Alford,</hi> and of divers other parcels of Lands in <hi>Tuddington,</hi> therein particu<g ref="char:EOLhyphen"/>larly mentioned; and that ſhe died ſeized thereof in Fee 16 of <hi>April</hi> then laſt paſt 12 <hi>Jacob.</hi> And I finde <hi>Thomas Wentworth</hi> Kinght, Lord <hi>Wentworth</hi> her Co<g ref="char:EOLhyphen"/>zen and next heir, as by a Copy of the ſaid Inquiſition depoſed by <hi>George Becke</hi> to be a true Copy of the Ori<g ref="char:EOLhyphen"/>ginall appeareth.</p>
+            <p>But I finde in a Suit depending in Chancery, be<g ref="char:EOLhyphen"/>tween the Petitioner his wife and others Plaintiffs, and <hi>Thomas</hi> Earl of <hi>Cleveland</hi> and others defendants, upon opening and long debate of the matter 26 <hi>Novemb.</hi> 5 <hi>Carol.</hi> in the preſence of Councel learned on both ſides, the Lord Keeper being aſſiſted with the Lord Chief Juſtice of the upper Bench and M. Juſtice <hi>Crook;</hi> his Lordſhip, and the ſaid Lords the Judges were of opinion and did ſo declare, that they held it
+<pb n="10" facs="tcp:105134:6"/> not fit that the ſaid Defendant ſhould ſhew his Evi<g ref="char:EOLhyphen"/>dences, or that he ſhould make any further Anſwer to the ſaid Bill; and th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t they found no ſuch Conſide<g ref="char:EOLhyphen"/>ration expreſſed in the Plaintiffs Deeds, as was fit for that Court to give any allowance thereof, and there<g ref="char:EOLhyphen"/>fore did order that the matter be cleerly and abſolute<g ref="char:EOLhyphen"/>ly diſmiſt out of the ſaid Court, as by a Copy of the ſaid Order hereunto annexed, depoſed by <hi>John Willis</hi> to be a true Copy of the originall Record appeareth.</p>
+            <p>And in purſuance of the Order of <hi>Jan.</hi> 1. 1651. I finde it is depoſed by Sir <hi>John Thorowgood</hi> Knight, That about the yeare One thouſand ſix hundred forty and two, the Petitioner <hi>Triſtram Wodward</hi> came to this Deponents houſe in St. <hi>Jones,</hi> and ſhewed a Caſe formerly drawn up and ſigned by two or three emi<g ref="char:EOLhyphen"/>nent Lawyers, which did intitle the ſaid <hi>Wodward</hi> to the Lands of the Earl of <hi>Cleveland</hi> in <hi>Bedfordſhire,</hi> as deſcending to him by Title derived from the Lord <hi>Cheyne;</hi> his Propoſition to this Deponent was, that this Deponent would compound with him the ſaid <hi>Wodward,</hi> for the Mannor of <hi>Harlington</hi> in the County aforeſaid, which was morgaged to the ſaid Deponent by the ſaid Earl, and that he would uſe this Deponent well in it: This Deponent was apt to imbrace the motion, which might free the Mannor from all for<g ref="char:EOLhyphen"/>mer incumbrances, and give him a Title before the Earl, and therefore he deſired that he might have the ſaid <hi>Wodwards</hi> Title in writing, to advize with his Councell upon it, which the ſaid <hi>Wodward</hi> willingly delivered to this Deponent.</p>
+            <p>The Opinion of this Deponents Councell was, That M. <hi>Wodward</hi> had not rightly ſtated the Caſe to his Councell, becauſe there was nothing more talked
+<pb n="11" facs="tcp:105134:6"/> of in <hi>Weſtminſter Hall,</hi> then that ſuppoſed Title which had paſſed the Court of Wards, and other Courts of Judicature.</p>
+            <p>And he did beleeve that if the Right had been on <hi>Wodwards</hi> ſide, one Court or other would have relie<g ref="char:EOLhyphen"/>ved him, and therefore diſſwaded this Deponent from truſting to his Title or to give him any thing for it.</p>
+            <p>M. <hi>Wodward</hi> coming to receive an Anſwer, this De<g ref="char:EOLhyphen"/>ponent told him, that his Councell would not advize him to deal with him; M. <hi>Wodward</hi> then told this Deponent of one M. <hi>Smith</hi> an able Gent. and a Law<g ref="char:EOLhyphen"/>yer of the Middle Temple, who as he ſaid did rightly underſtand his Title, beleeved it to be good and intend<g ref="char:EOLhyphen"/>ed to deal with him, the ſaid <hi>Smith</hi> having likewiſe an Ingagement upon the ſaid Earls Eſtate, and prayed this Deponent to ſpeak with the ſaid <hi>Smith.</hi>
+            </p>
+            <p>This Deponent went to M. <hi>Smith,</hi> being willing to ſecure his Debt, and found him ſtrongly poſſeſſed with an opinion that M. <hi>Wodwards</hi> Title was good; and not being able to convince him, this Deponent propo<g ref="char:EOLhyphen"/>ſed that we ſhould all three go to M. <hi>Hales</hi> of <hi>Lincolns Inne,</hi> M. <hi>Wodward</hi> ſhould ſhew him his Evidences, and M. <hi>Smith</hi> and this Deponent ſhould joyn in the Fee.</p>
+            <p>We did ſo, M. <hi>Hales</hi> deſired three or four dayes time to conſider of the buſineſs, after which time we repaired to M. <hi>Hales,</hi> who ſaid, that if ſuch a Deed which he had then in his hands, which this Deponent taketh to be a Counterpart or a Copy of the Deed of <hi>Pooley</hi> and <hi>Glenham,</hi> could be proved, which to this Deponents beſt remembrance was witneſſed with ſe<g ref="char:EOLhyphen"/>ven or eight witneſſes, ſome of them perſons of qua<g ref="char:EOLhyphen"/>lity, then M. <hi>Wodwards</hi> Title to the ſaid Lands was nothing worth: then this Deponent asked M. <hi>Hales,</hi>
+               <pb n="12" facs="tcp:105134:7"/> if the Witneſſes were dead how it could be proved? his Anſwer was, that if it could be proved to be their hands it would be ſufficient, with which Anſwer M. <hi>Smith</hi> and this Deponent were ſo well ſatisfied, that they moved no more in the buſineſſe, only M. <hi>Wodward</hi> came afterwards to this Deponent, ſetting forth his wants and ſaying, that a very ſmall matter would content him, and this Deponent verily belee<g ref="char:EOLhyphen"/>veth, that much leſſs then one hundreds pounds would at that time have bought his Title to the Mannor of <hi>Harlington,</hi> which was morgaged to this Deponent by the ſaid Earl.</p>
+            <p>And at another time meeting with the ſaid M. <hi>Wod<g ref="char:EOLhyphen"/>ward,</hi> he deſired this Deponent that he would not diſ<g ref="char:EOLhyphen"/>ſwade other men from dealing with him the ſaid <hi>Wodward</hi> for his Title, or words to that effect.</p>
+            <p>And <hi>Triſtram Wodward</hi> 
+               <abbr>Esq</abbr> depoſeth, that <hi>Richard Ruffin</hi> the father of <hi>Eliz. Cheyne,</hi> took an Adminiſtra<g ref="char:EOLhyphen"/>tion after the death of <hi>Anne Ruffin</hi> his wife, mother of <hi>Elizabeth Cheyne</hi> and Grandmother of this Depo<g ref="char:EOLhyphen"/>nent; And that the ſaid <hi>Richard Ruffin</hi> 2 <hi>Eliz.</hi> did by Fine purchaſe a Leaſe for 65 years of divers Lands called <hi>Swinford Leaſe,</hi> in which Leaſe is mentioned to be demiſed, one hundred Acres of Meadow, and five hundred Acres of Paſture, and one hundred Acres of Wood, together alſo with the Ferry of <hi>Swinford,</hi> as by a Copy of the ſaid Aminiſtration and Fine depoſed by <hi>George Becke</hi> Gent. to be true Copies appeareth.</p>
+            <p>And this Deponent further ſaith, That 4 <hi>Eliz.</hi> there was an Adminiſtration taken after the death of the ſaid <hi>Richard Ruffin,</hi> wherein there is alſo mentioned divers other Leaſes of Lands called <hi>Great twelve acres, Cloddings, the Free Lands, Werſey, Tiffins, the Mills and</hi>
+               <pb n="13" facs="tcp:105134:7"/> 
+               <hi>Mill Mores, Perts Cloſe, Gloverſe Cloſe, Millers Cloſe, and Lintorne,</hi> and about two thouſand ſix hundred Sheep, eighteen Oxen, forty ſeven Kyne, fifty five young Beaſts, ſixty Horſes of all kinds, divers ounces of ſilver and gilt Plate, and ſome ready Money, beſides Houſhold goods of ſeverall ſorts, and Corn and Hay in ſeverall Reekes and Barnes; and that in the foot of the Inventory there appeareth to be Eleven hundred twenty five Pound thirteen Shillings four Pence, due to the Children of <hi>Anne Ruffin</hi> by her former huſ<g ref="char:EOLhyphen"/>band <hi>William Seacoll</hi> alias <hi>Salkell,</hi> as by the Inventory under the Seal of the Prerogative Court appeareth, of which Children this Deponents mother was a ſur<g ref="char:EOLhyphen"/>vivor: And this Deponent further ſaith, that 14 <hi>Eliz.</hi> this Deponents Aunt <hi>Eliz. Cheyne,</hi> married with <hi>Tho<g ref="char:EOLhyphen"/>mas Cheyne</hi> 
+               <abbr>Esq</abbr> found heir to the Lord <hi>Cheyne</hi> by three Inquiſitions.</p>
+            <p>And that the father of <hi>Thomas Cheyne,</hi> before the marriage of <hi>Elizabeth Cheyne,</hi> did Covenant to aſſure to <hi>Eliz. Cheyne</hi> in recompence of her Lands, the Man<g ref="char:EOLhyphen"/>nor of <hi>Kynburie</hi> and impropriate Parſonage of <hi>Kyn<g ref="char:EOLhyphen"/>burie,</hi> which this Deponent hath heard and doth verily beleeve, to be of the value of ſeven or eight hundred Pound <hi>per annum:</hi> and before the ſaid Covenant and Conveyance made to <hi>Elizabeth Cheyne,</hi> the ſaid <hi>Thomas Cheyne</hi> the father had made two former Conveyances of the ſaid Lands, the one for 50 years or thereabouts the 12 <hi>Eliz.</hi> and the other of the Fee-ſimple 13 <hi>Eliz.</hi> to one <hi>Langly</hi> of <hi>London,</hi> as by the Copy of the Inqui<g ref="char:EOLhyphen"/>ſition taken after the death of <hi>Thomas Cheyne</hi> the father 31 of <hi>Elizabeth,</hi> and the Copy of the Deed inrolled dated the 13 <hi>Eliz.</hi> depoſed by the ſaid <hi>George Becke</hi> to be true Copies appeareth.</p>
+            <pb n="14" facs="tcp:105134:8"/>
+            <p> And this Deponent further ſaith, That the Deed and Recovery 6 <hi>Eliz.</hi> was only found in the Lord <hi>Cheynes</hi> Inquiſition 35 <hi>Eliz.</hi> and the Deed and Re<g ref="char:EOLhyphen"/>covery of 13 <hi>Eliz.</hi> was left out of the Inquiſition, and 12 <hi>Jacob.</hi> in the Inquiſition then taken after the death of the Lady <hi>Cheyne,</hi> to intitle her to die ſeized of the Fee-ſimple, there was neither the Deed of 6 nor 13 of <hi>Eliz.</hi> found, and ſo found her to die ſeized without Deeds of the Lands in the ſaid Recoveries mentio<g ref="char:EOLhyphen"/>ned, as by the Copies of the ſaid ſeverall Inquiſi<g ref="char:EOLhyphen"/>tions depoſed by <hi>George Becke</hi> to be true Copies ap<g ref="char:EOLhyphen"/>peareth.</p>
+            <p>And this Deponent further ſaith, That in the Diſ<g ref="char:EOLhyphen"/>miſſion at large 12 <hi>Jacob.</hi> againſt <hi>Thomas Cheyne</hi> in the Court of Wards, it appeareth that the Earl did plead this Deponents Deed and Conſiderations to barre <hi>Thomas Cheyne,</hi> and that the Clark had entred in the ſaid Diſmiſſion, that the Court was ſatisfied the Earles Title was good and ſufficient in Law, with<g ref="char:EOLhyphen"/>out any ſuch words or warrant in the Order for the diſmiſſion, as by the ſaid Order and Diſmiſſion depo<g ref="char:EOLhyphen"/>ſed by the ſaid <hi>George Becke</hi> to be true Copies ap<g ref="char:EOLhyphen"/>peareth.</p>
+            <p>And this Deponent further ſaith, That 4 <hi>Carl.</hi> the Earl demurred to the Conſiderations generally ex<g ref="char:EOLhyphen"/>preſſed in this Deponents Deed and Bill in Chancery, for want of the Evidences, and got this Deponents Bill diſmiſt, and in the diſmiſſion the Earl did cauſe the Clark to inſert, that the Court would not allow of the Conſiderations of this Deponents Deeds, albeit it was directed by the Court and ſo written in the Re<g ref="char:EOLhyphen"/>giſters Note-book, that the Bill was to be diſmiſſed without prejudice, as by the Notes in M. <hi>Edwards</hi>
+               <pb n="15" facs="tcp:105134:8"/> his Book Regiſter did then and after appear to this Deponent, and is ſo certified by M. <hi>Devoniſh</hi> a Clark in the Regiſters Office under his hand.</p>
+            <p>And this Deponent further ſaith, That it appeareth under the hands of Serjeant <hi>Rolls,</hi> Serjeant <hi>Godbolt,</hi> Serjeant <hi>Atkins</hi> afterwards Judges, and Sir <hi>Thomas Widdrington</hi> and others, ſubſcribed in the year of our Lord 1645. which is depoſed in Chancery by <hi>John Cooke</hi> and <hi>Richard Wallopp</hi> Eſquires to be their hands; that they are of opinion the Conſiderations are great and valuable Conſiderations for the Lands claimed by this Deponent, and that the entring by the Clark in the Court of Wards, in the diſmiſſion againſt <hi>Tho<g ref="char:EOLhyphen"/>mas Cheyne,</hi> that the Court was ſatisfied that the Earls Title was good and ſufficient in Law, without any ſuch words or warrant in the Order for the diſmiſſion and the pleading thereof againſt this Deponent at the Councel-Table and in Chancery, was unduly done and ought to be ſuppreſſed, and that this Deponent ought to have a Decree againſt the Deeds to <hi>Pool<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> and <hi>Glenham,</hi> for divers reaſons under their hands ex<g ref="char:EOLhyphen"/>preſſed.</p>
+            <p>And this Deponent further ſaith, That it appeareth by the Depoſitions in Chancery of <hi>George Almery</hi> Gent. that he and Juſtice <hi>Pheſant</hi> did compound with this Deponent for their part of the Lands Morgaged to them by the Earl of <hi>Cleveland.</hi>
+            </p>
+            <p>And this Deponent further ſaith, That to this De<g ref="char:EOLhyphen"/>ponents beſt remembrance, M. <hi>Hales</hi> Councellor at Law did adviſe Sir <hi>John Thorowgood</hi> to compound with this Deponent for his part of the Lands morga<g ref="char:EOLhyphen"/>ged to him by the ſaid Earl, and told this Deponent he would be of Councell for this Deponent againſt
+<pb n="16" facs="tcp:105134:9"/> the Title of the Earl, and to this Deponents beſt re<g ref="char:EOLhyphen"/>membrance, the ſaid Sir <hi>John Thorowgood</hi> did tell this Deponent that he had lent the Earl three thouſand Pound upon a Morgage of the Mannor of <hi>Harlington,</hi> and that the ſaid Mannor was worth ſix thouſand Pound, and that if this Deponent would allow the ſaid Sir <hi>John Thorowgood</hi> his three thouſand Pound in the Purchaſe, he would give this Deponent three thouſand Pound more, or uſed words to the ſame effect.</p>
+            <p>And this Deponent further ſaith, That the profits of one of the Leaſes of <hi>Elizabeth Cheyne</hi> called <hi>Swin<g ref="char:EOLhyphen"/>ford Leaſe,</hi> from the time of the marriage of <hi>Elizabeth Cheyne</hi> 14 <hi>Eliz.</hi> to the time of the making of the Deed 11 of <hi>Jacob.</hi> did amount to more then the ten thou<g ref="char:EOLhyphen"/>ſand Pound mentioned in the ſaid Deed, for recom<g ref="char:EOLhyphen"/>pence whereof, and for other the Lands and goods of <hi>Elizabeth Cheyne,</hi> the ſaid <hi>Thomas Cheyne</hi> did convey and Covenant to convey the Reverſion of the ſaid Lands claimed by this Deponent.</p>
+            <p>And this Deponent further ſaith, That after the Leaſe for 30 years made to Sir <hi>John Croft</hi> was ended, this Deponent did prefer a Bill in Chancery to be re<g ref="char:EOLhyphen"/>lieved againſt the ſaid Deeds to <hi>Pooley</hi> and <hi>Glenham,</hi> which Bill was ſigned by <hi>Bulſtrade Whitlocke</hi> Eſquire, after one of the Lords Commiſſioners for the Great Seal, and by <hi>John Bradſhaw</hi> Eſquire, after Lord Preſi<g ref="char:EOLhyphen"/>dent of the Councell of State, and by Sir <hi>Thomas Bed<g ref="char:EOLhyphen"/>dingfield</hi> Knight after one of the Judges of the Com<g ref="char:EOLhyphen"/>mon Pleas, and by <hi>Henry Pelham</hi> and <hi>John Maynard</hi> Eſquires, who have alſo declared in the Bill, that this Deponents remedy is by Decree in Equity againſt thoſe Deeds to <hi>Pooley</hi> and <hi>Glenham</hi> for divers reaſons;
+<pb n="17" facs="tcp:105134:9"/> And the preſident of <hi>Kinerſley</hi> and <hi>Colmers</hi> Caſe in the Bill ſet forth, which Title of the Earl by the ſaid Deeds to <hi>Pooley</hi> and <hi>Glemham</hi> is now come to the State, whereby this Deponents Title is to be heard and de<g ref="char:EOLhyphen"/>termined by the Committee of Obſtructions both for Law and Equity, by the ſaving in the Act for the ſale of Delinquents Lands, as this Deponent humbly conceiveth by the words in the Act. All which is humbly ſubmitted to Judgement.</p>
+            <closer>
+               <signed>THOMAS St NICHLAS.</signed>
+               <dateline>
+                  <date>
+                     <hi>Novemb.</hi> 20. 1651.</date>
+               </dateline>
+               <signed>Copia examinatur, EDWARD NOELL.</signed>
+            </closer>
+         </div>
+         <div type="order">
+            <head>May 13. 1652. <hi>By the Commiſsioners for removing Obſtructions in the Sale of Delinquents Lands and Estates.</hi>
+            </head>
+            <p>WHereas the Cauſe upon the Petition and Claim of <hi>Triſtram Wodward</hi> Eſquire, out of the Eſtate of <hi>Thomas</hi> Earl of <hi>Cleveland,</hi> to the Mannors of <hi>Tud<g ref="char:EOLhyphen"/>dington, Harlington</hi> and <hi>Tyngrith</hi> in the County of <hi>Bedford</hi> came to a Hearing this day, and the Deed of 29 of <hi>Eliz.</hi> made to <hi>Pooley</hi> and <hi>Glemham,</hi> mentioned in the Councels Report, being not produced in this Cauſe, Ordered that the further hearing of this Cauſe be reſpited untill Thurſday the 27 inſtant, and this to be without prejudice to the parties intereſſed herein in the mean time, and that there do iſſue forth
+<pb n="18" facs="tcp:105134:10"/> an Order for the bringing in of the ſaid Deed by that day.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>William Roberts.</hi>
+                     </item>
+                     <item>
+                        <hi>John Parker.</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Muſſenden.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Aldworth.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Pit.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <signed>Copia examinatur, Edward Noell.</signed>
+            </closer>
+         </div>
+         <div type="order">
+            <head>May 13. 1652. <hi>By the Commiſsioners for removing Obſtructions in the Sale of Delinquents Lands and Estates.</hi>
+            </head>
+            <p>ORdered, That M. <hi>Thomas Penington</hi> do forthwith produce to M<hi rend="sup">r</hi> S<hi rend="sup">t</hi> 
+               <hi>Nichlas</hi> of Councell for the Commonwealth, ſuch Conveyances as he hath in his cuſtody or can come by, as were made by the Lady <hi>Jane Cheyne</hi> deceaſed in the 29 of <hi>Eliz.</hi> to <hi>Pooley</hi> and <hi>Glenham,</hi> and from the ſaid <hi>Pooley</hi> and <hi>Glenham</hi> to <hi>Thomas</hi> Earl of <hi>Cleveland,</hi> or to any other for his uſe, to be made uſe of in the defence of the Common<g ref="char:EOLhyphen"/>wealths Title, and then to be ſafely redelivered to the ſaid M. <hi>Penington.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Copia Examinatur,</hi> Edw. Noell.</signed>
+            </closer>
+         </div>
+         <div type="resolution">
+            <pb n="19" facs="tcp:105134:10"/>
+            <head>May 27. 1652. <hi>By the Commiſsioners for removing Obſtructions in the Sale of Delinquents Lands and Estates.</hi>
+            </head>
+            <p>VVHereas the Cauſe upon the Petition and Claim therein of <hi>Triſtram Wodward</hi> Eſquire, out of the Eſtate of <hi>Thomas</hi> Earl of <hi>Cleveland,</hi> one of the perſons named in the Act intituled, <hi>An Act for the Sale of ſeverall Lands and Eſtates forfeited to the Commonwealth for Treaſon,</hi> to the Mannors of <hi>Tud<g ref="char:EOLhyphen"/>dington, Harlington and Tyngrith</hi> in the County of <hi>Bed<g ref="char:EOLhyphen"/>ford,</hi> came according to former Order to a hearing this day, and the Certificate or Repert of M<hi rend="sup">r</hi> S<hi rend="sup">t</hi> 
+               <hi>Nich<g ref="char:EOLhyphen"/>las</hi> of Councell for the Commonwealth made in this Caſe being read, and Councell for the Petitioner be<g ref="char:EOLhyphen"/>ing heard, what they had to offer in reference to the ſaid Claim, and the ſame being had in ſerious debate and conſideration, it was upon the Queſtion reſol<g ref="char:EOLhyphen"/>ved;</p>
+            <p>That the Claim of the ſaid <hi>Triſtram Wodward</hi> 
+               <abbr>Esq</abbr> to the ſaid Mannors of <hi>Tuddington, Harlington</hi> and <hi>Tyngrith</hi> be diſmiſſed.</p>
+            <closer>
+               <signed>
+                  <hi>Copia examinatur,</hi> Edward Noell.</signed>
+            </closer>
+         </div>
+         <div type="reasons">
+            <pb n="20" facs="tcp:105134:11"/>
+            <head>That the Act of Parliament for Sale of Delinquents Lands, doth appoint all Juſt Claimes both in Law or Equity, to be heard, determined and allowed.</head>
+            <head type="sub">
+               <hi>The Reaſons of learned Lawyers, why the Claim of the ſaid</hi> Triſtram Wodward <hi>
+                  <abbr>Esq</abbr> is Just in Law and Equity.</hi>
+            </head>
+            <div type="reason">
+               <p>I Am of Opinion, That the Plaintiff M. <hi>Wodward</hi> ought to have a Decree for the Lands and profits ſince the death of the Lady <hi>Cheyne</hi> 12 <hi>Jacob.</hi> of thoſe parcells of Lands whereof the Fines <hi>Sur conceſsit</hi> were levied 20 <hi>Eliz.</hi> and 27 <hi>Eliz.</hi> and whereof the Reco<g ref="char:EOLhyphen"/>very was ſuffered 24 <hi>Eliz.</hi> for that the Ladies power was interrupted from making the Leaſe for 30 years of thoſe parcells, notwithſtanding the Deeds to <hi>Poo<g ref="char:EOLhyphen"/>ley</hi> and <hi>Glemham,</hi> ſuppoſed to be made by the Lady <hi>Cheyne</hi> 29 <hi>Eliz.</hi> were true Deeds; but I ſuſpect thoſe Deeds to be falſe antidated Deeds, made of purpoſe to bring the Reverſion to the Earl of <hi>Cleveland</hi> the Lady <hi>Cheynes</hi> heir, contrary to the intent of the Lord <hi>Cheyne</hi> in the Deed of 13 <hi>Eliz.</hi> wherefore I am alſo of opinion, the Plaintiff ought to have a Decree for the Reverſion of all the reſt of the Lands, after the expiration of the Leaſe for 30 years made by the Lady <hi>Cheyne</hi> 10 <hi>Jac.</hi> to Sir <hi>John Crofts,</hi> to begin from her death 12 <hi>Jac.</hi> which ended the 16 of <hi>April</hi> 1644.</p>
+               <p>I am alſo of opinion, That the Lands and Goods of <hi>Eliz. Cheyne</hi> are good and valuable Conſiderations in equity, for <hi>Thomas Cheyne</hi> her husband to Convey his own Lands to the Plaintiff, who was ſiſters ſon of <hi>Elizabeth Cheyne</hi> by the ſaid bargain and ſale
+<pb n="21" facs="tcp:105134:11"/> made 6 <hi>Jac.</hi> and that the Lands mentioned in the Deed of Bargain and Sale, ought to be decreed for the Plaintiff in equity, according to the Conveyances and Covenants of <hi>Thomas Cheyne.</hi>
+               </p>
+               <p>I am alſo of opinion, That the new Aſſurances made 11 <hi>Jac.</hi> by <hi>Thomas Cheyne</hi> to Sir <hi>Thomas Pel<g ref="char:EOLhyphen"/>ham,</hi> Sir <hi>John Hungerford</hi> and others, do in Law raiſe the uſes to the Plaintiff and his Children, being made for marriage between the Plaintiff and his wife, the daughter of Sir <hi>Edmund Pelham,</hi> and Kinſwoman of <hi>Thomas Cheyne</hi> and of the Lord <hi>Cheyne,</hi> and that the Conveyance of 11 <hi>Jac.</hi> and the Statute of Forty thouſand Pounds, are good in Law and equity.</p>
+               <closer>
+                  <signed>EDWARD ATKINS.</signed>
+                  <dateline>
+                     <date>
+                        <hi>July</hi> 18. 1645.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="reason">
+               <p>I Am of opinion, That for thoſe parcels of Lands wherein the Ladies power was interrupted by the Fines of 20 and 27 <hi>Eliz.</hi> and by the Recovery of 24 <hi>Eliz.</hi> and for the profits thereof ſince the death of the Lady, the Plaintiff ought to be releeved in equity, albeit the Deeds to <hi>Pooley</hi> and <hi>Glemham</hi> ſhould fall out to be true Deeds; but thoſe Deeds ſeem to be falſe and antidated after the Lady <hi>Cheynes</hi> Revocation of her Limitation 35 <hi>Eliz.</hi> and therefore I alſo conceive that the Plaintiff ought to be releeved for the Reverſion of all the reſt of the Lands, after the expiration of the Leaſe for 30 years which is now ended, and the great Eſtate in Lands and Goods of <hi>Eliz. Cheyne</hi> the Plaintiffs Aunt, whereof ſhe was defrauded, were great and valuable Conſiderations
+<pb n="22" facs="tcp:105134:12"/> for <hi>Thomas Cheyne</hi> to convey this Reverſion after the 30 years to the Plaintiff, being the ſiſters ſon of <hi>Eliz. Cheyne;</hi> and I think that the bargain and ſale to the Plaintiff 6 <hi>Jac. Regis,</hi> and the new Aſſurances 11 <hi>Jac. Regis,</hi> and the Statute of 40000 Pound ought to be decreed for the Plaintiff in equity, according to the Covenants of <hi>Thomas Cheyne.</hi>
+               </p>
+               <p>I hold that the Lady <hi>Cheyne</hi> by the Deed of 13 <hi>E<g ref="char:EOLhyphen"/>liz.</hi> had only power to make one Limitation and no more, and therefore that Limitation of the uſes of the Recovery of 13 <hi>Eliz.</hi> in the bottom of the Deed of 35 <hi>Eliz.</hi> were void and idle, if thoſe Deeds to <hi>Pooley</hi> and <hi>Glemham</hi> were made 29 <hi>Eliz.</hi> and true Deeds, which I conceive are repugnant to thoſe Deeds 35 <hi>E<g ref="char:EOLhyphen"/>liz.</hi> and alſo to the laſt Will of the Lady <hi>Cheyne,</hi> which Declares that ſhe never made any Limitation, nor ever intended to make any without power of Re<g ref="char:EOLhyphen"/>vocation.</p>
+               <p>If thoſe Deeds to <hi>Pooley</hi> and <hi>Glemham</hi> had been true Deeds, it is not probable that Sir <hi>John Crofts</hi> the Lady <hi>Cheynes</hi> Commiſſioner would have omitted the proving of them at the finding of the Lord <hi>Chey<g ref="char:EOLhyphen"/>nes</hi> Office in 35 <hi>Eliz.</hi> or have ſuffered the Lady <hi>Cheyne</hi> to have omitted the pleading of them in the Exche<g ref="char:EOLhyphen"/>quer 36 <hi>Eliz.</hi> neither would the Earl have omitted the proving of them in his own Office 12 <hi>Jac. Regis</hi> after the death of the Lady <hi>Cheyne,</hi> nor in the Court of Wards, Councell-Table and Chancery, where he hath been called to prove them.</p>
+               <p>It appears that the Earl in the Court of Wards, pleaded the Plaintiffs bargain and ſale, and Conſide<g ref="char:EOLhyphen"/>rations to barre <hi>Thomas Cheyne,</hi> and therefore it will be a kind of contradiction, for the Earl to plead in
+<pb n="23" facs="tcp:105134:12"/> Chancery againſt the Plaintiff, that now the Conſide<g ref="char:EOLhyphen"/>rations are not valuable.</p>
+               <p>I am of opinion, That the Clarks undue entring up in the diſmiſſion at large in the Court of Wards againſt <hi>Thomas Cheyne,</hi> that the Court was ſatisfied of the Earls Title to be good and ſufficient in Law, without any ſuch words or warrant in the Order for diſmiſſion, and after pleading the ſame at the Coun<g ref="char:EOLhyphen"/>cell-Table and in Chancery againſt the Plaintiff, is unduly done and ought to be ſuppreſſed.</p>
+               <p>The Lord <hi>Cheyne</hi> taking the Fee-ſimple from the Lady <hi>Cheynes</hi> heirs, given by the Deed of 6 <hi>Eliz.</hi> and ſetling it upon his own heirs by the Deed of 13 <hi>Eliz.</hi> after the expiration of the Lady <hi>Cheynes</hi> Eſtate, doth cleerly ſhew, that he meant his wife ſhould leave the Reverſion after 30 years to his heirs and not to her heir, by ſuch a Deed as is pretended to be made by the Lady <hi>Cheyne</hi> 29 <hi>Eliz.</hi> to <hi>Pooley</hi> and <hi>Glemham.</hi>
+               </p>
+               <p>I do not conceive that any of the Fines levied by Earl of any part of the Land, can barre the Plaintiff of his right of Entry within five years after the expira<g ref="char:EOLhyphen"/>tion of the Leaſe for 30 years by the Statute of 4 <hi>Hen.</hi> 7. And I think that no Fines at any time can barre the Plaintiffs right in equity, nor his Statute of Forty thouſand Pound at the Common Law.</p>
+               <closer>
+                  <signed>THO. WIDRINGTON.</signed>
+                  <dateline>
+                     <date>
+                        <hi>Julij</hi> 28. 1645.</date>
+                  </dateline>
+
+               </closer>
+               <postscript>
+                  <p>I am of the ſame opinion for the Reaſons aforeſaid.</p>
+                  <closer>
+                     <signed>HEN. ROLL.</signed>
+                     <date>
+                        <hi>Aug.</hi> 5. 1645.</date>
+                  </closer>
+               </postscript>
+               <postscript>
+                  <p>I am of the ſame opinion.</p>
+                  <closer>
+                     <signed>JOHN GODBOULD.</signed>
+                  </closer>
+               </postscript>
+            </div>
+         </div>
+         <div type="question">
+            <pb n="24" facs="tcp:105134:13"/>
+            <head>The Queſtion is,</head>
+            <p>VVHether the Office of 12 <hi>Jac.</hi> in M<hi rend="sup">r</hi> S<hi rend="sup">t</hi> 
+               <hi>Nichlas</hi> Report mentioned, that findes the Lady <hi>Chey<g ref="char:EOLhyphen"/>ne</hi> to die ſeized of the Fee-ſimple of her husbands Lands without finding any Deeds to intitle her, or the Diſmiſſion in Chancery of the Bill of <hi>Triſtram Wodward</hi> 
+               <abbr>Esq</abbr> againſt the Earl of <hi>Cleveland</hi> 4 <hi>Carol.</hi> before an Anſwer come in, or the Affidavit of Sir <hi>John Thorowgood</hi> in his own Caſe in the Report men<g ref="char:EOLhyphen"/>tioned, or the Depoſitions of <hi>John Cook</hi> and <hi>Richard Wallop</hi> Eſquires, who depoſe in Chancery they did ſee thoſe Deeds dated 29 <hi>Eliz.</hi> alledged to be made by the Lady <hi>Cheyne</hi> to <hi>Pooley</hi> and <hi>Glemham,</hi> and the Re<g ref="char:EOLhyphen"/>grant alledged to be made by <hi>Pooley</hi> and <hi>Glemham</hi> to the Lady <hi>Cheyne,</hi> ſhewed forth by Serjeant Taylor the Earls Councell to Juſtice <hi>Reeve</hi> and Juſtice <hi>Foſter</hi> up<g ref="char:EOLhyphen"/>on a Reference from Parliament 1641. be ſufficient proof to prove the Deeds true Deeds and not antida<g ref="char:EOLhyphen"/>ted, without producing or proving the Execution to be ſealed and delivered 29 <hi>Eliz.</hi> the year they bear date, upon pretence to the Commiſſioners at the hearing of the Cauſe, that now the Deeds are loſt.</p>
+            <p>See Sir <hi>George Caryes</hi> book in point of his Reports in Chancery <hi>folio</hi> 31. Juſtice <hi>Monſons</hi> Caſe <hi>primo Ja<g ref="char:EOLhyphen"/>cob.</hi> where a Releaſe was pretended to be loſt, and it was depoſed it had been ſeen, but this was not al<g ref="char:EOLhyphen"/>lowed for proof, unleſſe he would ſwear he had ſeen it ſealed and delivered, for it is not ſufficient to ſay he ſaw it after it was a Deed, for no Deed is to be al<g ref="char:EOLhyphen"/>lowed unleſſe it be produced, or the execution thereof proved, thoſe are the words in Sir <hi>George Caryes</hi> book of Reports.</p>
+            <pb n="25" facs="tcp:105134:13"/>
+            <p> That the Act of Oblivion doth except from par<g ref="char:EOLhyphen"/>don, all Perſons that ſhall give in evidence any forged antidated Deed, and therefore it is the ſafeſt way to ſay ſuch Deeds are loſt, then to give them in evidence for true Deeds.</p>
+            <p>That the ſaid M. <hi>Wodward</hi> before the hearing of the Cauſe, did Petition the Committee of Obſtru<g ref="char:EOLhyphen"/>ctions, to hear and determin the Cauſe according as to their wiſdomes ſhall ſeem to ſtand with equity and good conſcience, for that the Petitioner is without all means to go to Law any further being in years, and he and his Children utterly undone by the Earl, which Petition was delivered to every one of the Commiſſioners of Obſtructions that heard the Cauſe, and after diſmiſſed it without any cauſe ſhewed in the Diſmiſſion, as by the Orders aforeſaid appeareth, whereby the Petitioner and his Children are left in a diſtreſſed eſtate, without any means to ſubſiſt, and his debts unpaid to divers Perſons of qua<g ref="char:EOLhyphen"/>lity, of whom he found great love for his integrity and juſt dealing: And it is humbly ſubmitted to judge<g ref="char:EOLhyphen"/>ment, whether in Conſcience the debts of M. <hi>Cheyne</hi> that married <hi>Eliz. Cheyne</hi> the heir and Executrix of <hi>Richard Ruffin,</hi> ought to be paid out of theſe Mannors and Lands, before the debts of the Earl of <hi>Cleveland</hi> that is a ſtranger to M. <hi>Cheyne,</hi> nor paid any thing for the Reverſion after the 30 years, being declared by learned Councell to be the Vineyard or Lands of M. <hi>Cheyne,</hi> and Conveyed and Covenanted to be Conveyed to M. <hi>Wodward</hi> for marriage, and for a re<g ref="char:EOLhyphen"/>compence for the Lands of <hi>Elizabeth Cheyne</hi> and her ſiſters Portions that bought part of the Lands called <hi>Swinford Leaſe.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
